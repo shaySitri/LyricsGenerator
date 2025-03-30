@@ -1,5 +1,7 @@
 # Song Generator using Deep Learning 🎶
 
+[![Jupyter Notebook](https://img.shields.io/badge/Notebook-LFW_Siamese.ipynb-orange?logo=jupyter)](https://github.com/shaySitri/LyricsGenerator/blob/main/Lyrics_Generation.ipynb)
+
 This project explores the exciting world of music generation using deep learning techniques. It leverages a dataset of song lyrics and corresponding MIDI files to build models that can generate new song lyrics inspired by musical characteristics.
 
 ## Project Overview 🎼
